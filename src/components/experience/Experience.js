@@ -1,7 +1,6 @@
 import React from 'react'
 import './Experience.css'
 import { Fade } from 'react-reveal'
-import { Link } from 'react-scroll'
 import Section from '../section/Section'
 import ExperienceCard from '../experienceCard/ExperienceCard'
 import experienceData from '../../data/experience.json'
