@@ -1,12 +1,15 @@
 import React, { useState } from 'react'
 import './Home.css'
 import Fade from 'react-reveal/Fade'
+import { Bounce } from 'react-reveal'
 import { Link } from 'react-scroll'
 import Particles from 'react-particles-js'
+import Typewriter from 'typewriter-effect'
 import ArrowDropDownCircleIcon from '@material-ui/icons/ArrowDropDownCircle'
 import Navbar from '../navbar/Navbar'
 import config from '../../config'
 import profile from '../../images/matt.png'
+import linkedin from '../../images/social/linkedin.png'
 
 const Home = () => {
   const [imageLoaded, setImageLoaded] = useState(false)
@@ -28,7 +31,31 @@ const Home = () => {
                 👋
               </span>
             </h1>
-            <h1 className="greeting-text">I'm a software engineer.</h1>
+            <h1 className="greeting-text">
+              <Typewriter
+                options={{
+                  strings: [
+                    'I like to design things.',
+                    'I love learning new tech.',
+                    'I love meeting new people.',
+                    'I create unique digital experiences.',
+                  ],
+                  autoStart: true,
+                  loop: true,
+                }}
+              />
+            </h1>
+            <Bounce cascade>
+              <div className="links">
+                <a
+                  href="https://www.linkedin.com/in/mjigalin/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src={linkedin} alt="Linkedin Logo" width="50px" />
+                </a>
+              </div>
+            </Bounce>
             <div className="scroll-down">
               <Link
                 activeClass="active"
