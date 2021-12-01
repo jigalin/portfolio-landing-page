@@ -27,7 +27,7 @@ const Navbar = () => {
             ABOUT
           </Link>
         </div>
-        <div className="navlink-wrapper">
+        {/* <div className="navlink-wrapper">
           <Link to="experience" spy={true} smooth={true} duration={500}>
             EXPERIENCE
           </Link>
@@ -36,7 +36,7 @@ const Navbar = () => {
           <Link to="projects" spy={true} smooth={true} duration={500}>
             PROJECTS
           </Link>
-        </div>
+        </div> */}
         <div className="navlink-wrapper">
           <Link to="contact" spy={true} smooth={true} duration={500}>
             CONTACT
