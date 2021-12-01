@@ -6,7 +6,7 @@ import Particles from 'react-particles-js'
 import ArrowDropDownCircleIcon from '@material-ui/icons/ArrowDropDownCircle'
 import Navbar from '../navbar/Navbar'
 import config from '../../config'
-import profile from '../../images/profile.jpeg'
+import profile from '../../images/matt.png'
 
 const Home = () => {
   const [imageLoaded, setImageLoaded] = useState(false)

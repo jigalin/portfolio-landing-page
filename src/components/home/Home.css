@@ -54,13 +54,13 @@
 }
 .profile {
   border-radius: 50%;
-  border: 0.2rem solid orange;
+  border: 0.2rem solid rgb(11, 231, 121);
 }
 .greeting-text {
   margin: 5px;
 }
 .name {
-  color: orange;
+  color: rgb(11, 231, 121);
 }
 .scroll-down-element {
   display: inline-block;
