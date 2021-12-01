@@ -54,7 +54,7 @@
 }
 .profile {
   border-radius: 50%;
-  border: 0.2rem solid rgb(11, 231, 121);
+  border: 0.2rem solid #0be779;
 }
 .greeting-text {
   margin: 5px;

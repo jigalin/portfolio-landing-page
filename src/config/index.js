@@ -19,7 +19,7 @@ module.exports = {
       },
       line_linked: {
         enable: true,
-        distance: 800,
+        distance: 450,
         color: '#ffffff',
         opacity: 0.1,
         width: 1,
@@ -46,7 +46,7 @@ module.exports = {
       modes: {
         bubble: {
           distance: 200,
-          size: 12,
+          size: 17,
           duration: 1,
           opacity: 0.8,
           speed: 2,

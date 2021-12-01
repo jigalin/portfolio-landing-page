@@ -22,7 +22,7 @@
   margin: 0;
 }
 .textLink {
-  color: #FFAF00;
+  color: #0be779;
   cursor: pointer;
 }
 .location-wrapper {
@@ -59,7 +59,7 @@
   display: flex;
   flex-direction: column;
   height: 22px;
-  background-color: #1f7787;
+  background-color: #0be779;
   border-radius: 2px 0px 0px 2px;
 }
 @media screen and (min-width: 960px) {
@@ -76,8 +76,8 @@
     left: 0;
     width: 80px;
     height: 22px;
-    font-size: 12px;
-    background-color: #2899ad;
+    font-size: 14px;
+    background-color: #39b175;
     font-weight: 600;
     color: white;
   }

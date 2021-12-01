@@ -5,8 +5,8 @@
   height: 60px;
   display: flex;
   align-items: center;
-  background-color: #1a212e;
-  border-bottom: 3px solid #30b7cf;
+  background-color: #23252a;
+  border-bottom: 3px solid #0be779;
   pointer-events: fill;
 }
 .navbar a {
