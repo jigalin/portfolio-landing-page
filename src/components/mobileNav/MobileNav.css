@@ -1,0 +1,31 @@
+.mobilenav-wrapper {
+  position: absolute;
+  top: 63px;
+  width: 100%;
+  clip: rect(0, 9999px, 9999px, -9999px);
+}
+.mobilenav {
+  background-color: #1a212e;
+}
+.mobilenav.on {
+  transition: transform ease-in-out 0.4s, opacity ease-out 0.3s;
+  transform: translateY(0);
+}
+.mobilenav.off {
+  transition: transform ease-in-out 0.4s, opacity ease-out 0.3s;
+  transform: translateY(-100%);
+}
+.mobilenavlinks {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.mobilenavlink {
+  text-align: left;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.mobilenavlinks a {
+  text-align: left;
+  font-size: larger;
+}

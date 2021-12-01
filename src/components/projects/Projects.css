@@ -1,0 +1,36 @@
+.projects {
+  position: relative;
+  background-color: #2c323f;
+}
+.projects-content {
+  margin: 0 auto;
+}
+.projects-list {
+  position: relative;
+  padding-left: 0;
+  list-style: none;
+  margin: 0 auto;
+  width: 90%;
+}
+.projects-content {
+  max-width: 1000px;
+}
+.tagslist {
+  display: flex;
+  width: 90%;
+  margin: 30px auto 0 auto;
+}
+.project-tags {
+  display: flex;
+  flex-wrap: wrap;
+  width: 90%;
+}
+.more-projects-wrapper {
+  display: flex;
+  justify-content: center;
+}
+@media screen and (max-width: 599px) {
+  .projects-list {
+    width: 100%;
+  }
+}

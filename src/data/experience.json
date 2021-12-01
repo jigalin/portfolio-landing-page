@@ -1,0 +1,48 @@
+{
+  "experience": [
+    {
+      "id": 0,
+      "link": "https://www.cabbagetree.com.au/",
+      "company": "Cabbage Tree Landscape",
+      "title": "Database Developer",
+      "dateFrom": "June 2019",
+      "dateTo": "October 2020",
+      "info": [
+        "Created relational databases and interfaces to estimate and measure plant stock"
+      ],
+      "stack": ["Microsoft Access", "SQL", "VBA"],
+      "logowidth": 80,
+      "colourPrimary": "#1a1818",
+      "colourSecondary": "#252323"
+    },
+    {
+      "id": 1,
+      "link": "https://www.cactuscan.com/",
+      "company": "CactusCan",
+      "title": "Digital Producer",
+      "dateFrom": "September 2020",
+      "dateTo": "July 2021",
+      "info": [
+        "Responsible for filming and directing numerous video projects meeting client requirements and deadlines"
+      ],
+      "stack": [],
+      "logowidth": 100,
+      "colourPrimary": "#47e293"
+    },
+    {
+      "id": 2,
+      "link": "https://www.8secondz.com/",
+      "company": "8secondz",
+      "title": "Software Engineer",
+      "dateFrom": "October 2020",
+      "dateTo": "July 2021",
+      "info": [
+        "Responsible for front-end development and deployment",
+        "Provided assistance with back-end development and integration of AWS services"
+      ],
+      "stack": ["Vue.js", "Nuxt.js", "React.js", "Node.js", "AWS"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)"
+    }
+  ]
+}

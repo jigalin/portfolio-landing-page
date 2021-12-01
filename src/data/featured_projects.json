@@ -1,0 +1,15 @@
+{
+  "featured_projects": [
+    {
+      "id": 0,
+      "name": "Bartini",
+      "link": "https://www.bartiniapp.com/",
+      "description": "🍹 A cocktail-making web application. Users can input ingredients and browse cocktails that can be made.",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        { "name": "JavaScript", "color": "rgb(241, 224, 90)" },
+        { "name": "CSS", "color": "rgb(86, 61, 124)" }
+      ]
+    }
+  ]
+}

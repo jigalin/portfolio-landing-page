@@ -1,0 +1,37 @@
+{
+  "skills": [
+    {
+      "id": 0,
+      "skillName": "JavaScript",
+      "amount": "95"
+    },
+    {
+      "id": 1,
+      "skillName": "React.js",
+      "amount": "90"
+    },
+    {
+      "id": 2,
+      "skillName": "Vue.js",
+      "amount": "90"
+    },
+    { "id": 3, "skillName": "Node.js", "amount": "85" },
+    {
+      "id": 4,
+      "skillName": "Java",
+      "amount": "80"
+    },
+    {
+      "id": 5,
+      "skillName": "TypeScript",
+      "amount": "75"
+    },
+    { "id": 6, "skillName": "AWS", "amount": "70" },
+    { "id": 7, "skillName": "Python", "amount": "70" },
+    {
+      "id": 8,
+      "skillName": "SwiftUI",
+      "amount": "60"
+    }
+  ]
+}
