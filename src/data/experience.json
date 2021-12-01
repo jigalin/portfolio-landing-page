@@ -43,6 +43,51 @@
       "stack": ["Vue.js", "Nuxt.js", "React.js", "Node.js", "AWS"],
       "logoheight": 80,
       "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)"
+    },
+    {
+      "id": 3,
+      "link": "https://www.8secondz.com/",
+      "company": "8secondz",
+      "title": "Software Engineer",
+      "dateFrom": "October 2020",
+      "dateTo": "July 2021",
+      "info": [
+        "Responsible for front-end development and deployment",
+        "Provided assistance with back-end development and integration of AWS services"
+      ],
+      "stack": ["Vue.js", "Nuxt.js", "React.js", "Node.js", "AWS"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)"
+    },
+    {
+      "id": 4,
+      "link": "https://www.8secondz.com/",
+      "company": "8secondz",
+      "title": "Software Engineer",
+      "dateFrom": "October 2020",
+      "dateTo": "July 2021",
+      "info": [
+        "Responsible for front-end development and deployment",
+        "Provided assistance with back-end development and integration of AWS services"
+      ],
+      "stack": ["Vue.js", "Nuxt.js", "React.js", "Node.js", "AWS"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)"
+    },
+    {
+      "id": 5,
+      "link": "https://www.8secondz.com/",
+      "company": "8secondz",
+      "title": "Software Engineer",
+      "dateFrom": "October 2020",
+      "dateTo": "July 2021",
+      "info": [
+        "Responsible for front-end development and deployment",
+        "Provided assistance with back-end development and integration of AWS services"
+      ],
+      "stack": ["Vue.js", "Nuxt.js", "React.js", "Node.js", "AWS"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)"
     }
   ]
 }
