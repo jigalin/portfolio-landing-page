@@ -24,3 +24,8 @@
 .experience-list > li > div {
   height: 100%;
 }
+
+.textLink {
+  color: #0be779;
+  cursor: pointer;
+}
