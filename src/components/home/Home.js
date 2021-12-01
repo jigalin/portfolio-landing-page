@@ -42,6 +42,9 @@ const Home = () => {
                   ],
                   autoStart: true,
                   loop: true,
+                  deleteSpeed: 10,
+                  cursor: '<',
+                  delay: 100,
                 }}
               />
             </h1>

@@ -23,32 +23,33 @@ const About = () => {
               <span role="img" aria-label="lightning">
                 ⚡
               </span>{' '}
-              I'm a software engineer focusing on web development.
+              I'm a software engineer focusing on Front-End web and emerging
+              tech such as VR, AR and Blockchain.
             </p>
             <p>
               <span role="img" aria-label="lightning">
                 ⚡
               </span>{' '}
-              You can find me working with JavaScript, TypeScript, React, Vue,
-              and Node.
+              You can find me working with UE5, JavaScript, React, Vue, Node,
+              Apollo and Gatsby.
             </p>
             <div className="typewriter">
               <p className="typewriter-start">
                 <span role="img" aria-label="lightning">
                   ⚡
                 </span>{' '}
-                I enjoy
+                I love
               </p>
               <Typewriter
                 options={{
                   strings: [
-                    'learning',
-                    'exercise',
-                    'solving problems',
-                    'fixing bugs',
-                    'meeting new people',
-                    'good food',
-                    'fixing more bugs',
+                    'learning new technologies',
+                    'exercising',
+                    'solving complex problems',
+                    'skiing',
+                    'fixing hard-to-fix bugs',
+                    'trying new things',
+                    'collaborating with others',
                   ],
                   autoStart: true,
                   loop: true,
@@ -57,8 +58,9 @@ const About = () => {
               <p>.</p>
             </div>
             <p>
-              I've always loved solving problems, which is why I decided to
-              start programming back in 2015. Since then, I've created some{' '}
+              Since 2015 - I've spent my time seeking and learning new
+              technologies and forms of digital expression. This has led to me
+              working on some amazing world-class{' '}
               <Link
                 className="textLink"
                 to="projects"
@@ -76,9 +78,9 @@ const About = () => {
                 smooth={true}
                 duration={500}
               >
-                great places
+                amazing places
               </Link>
-              , and met some great people.
+              , and worked with some great people.
             </p>
             <div className="location-wrapper">
               <svg
