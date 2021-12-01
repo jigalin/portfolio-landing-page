@@ -2,81 +2,51 @@
   "experience": [
     {
       "id": 0,
-      "link": "",
-      "company": "",
-      "title": "",
-      "dateFrom": "June 2019",
-      "dateTo": "October 2020",
-      "info": [""],
-      "stack": ["", "", ""],
-      "logowidth": 80,
-      "colourPrimary": "#1a1818",
-      "colourSecondary": "#252323"
+      "link": "https://www.8secondz.com/",
+      "company": "8secondz",
+      "title": "Creative Lead - Web & App Team",
+      "dateFrom": "June 2020",
+      "dateTo": "July 2021",
+      "info": [
+        "Responsible for web team front-end development and design",
+        "Led in app UI/UX & company wide creative media content"
+      ],
+      "stack": ["Vue.js", "Nuxt.js", "Node.js", "AWS"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
+      "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
     },
     {
-      "id": 0,
-      "link": "",
-      "company": "",
-      "title": "",
-      "dateFrom": "June 2019",
-      "dateTo": "October 2020",
-      "info": [""],
-      "stack": ["", "", ""],
+      "id": 1,
+      "link": "https://www.psykinetic.com",
+      "company": "Psykinetic",
+      "title": "Immersive Tech & Web Developer",
+      "dateFrom": "August 2020",
+      "dateTo": "Current",
+      "info": [
+        "Developing VR application with UE4 and C++ for Oculus Quest",
+        "Web design & development of web platform using wix"
+      ],
+      "stack": ["C++", "UE4", "VR", "Web Design"],
       "logowidth": 80,
-      "colourPrimary": "#1a1818",
-      "colourSecondary": "#252323"
+      "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
+      "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
     },
     {
-      "id": 0,
-      "link": "",
-      "company": "",
-      "title": "",
-      "dateFrom": "June 2019",
-      "dateTo": "October 2020",
-      "info": ["", ""],
-      "stack": ["", "", ""],
+      "id": 2,
+      "link": "https://www.cactuscan.com",
+      "company": "CactusCan",
+      "title": "Creative Lead",
+      "dateFrom": "July 2016",
+      "dateTo": "Current",
+      "info": [
+        "Co-founding CactusCan in 2015 has led to many exciting projects with incredible customers.",
+        "Web design, marketing, media and customer engagement."
+      ],
+      "stack": ["React", "Marketing", "Design", "UI/UX"],
       "logowidth": 80,
-      "colourPrimary": "#1a1818",
-      "colourSecondary": "#252323"
-    },
-    {
-      "id": 0,
-      "link": "",
-      "company": "",
-      "title": "",
-      "dateFrom": "June 2019",
-      "dateTo": "October 2020",
-      "info": ["", ""],
-      "stack": ["", "", ""],
-      "logowidth": 80,
-      "colourPrimary": "#1a1818",
-      "colourSecondary": "#252323"
-    },
-    {
-      "id": 0,
-      "link": "",
-      "company": "",
-      "title": "",
-      "dateFrom": "June 2019",
-      "dateTo": "October 2020",
-      "info": ["", ""],
-      "stack": ["", "", ""],
-      "logowidth": 80,
-      "colourPrimary": "#1a1818",
-      "colourSecondary": "#252323"
-    },
-    {
-      "id": 0,
-      "link": "",
-      "company": "",
-      "title": "",
-      "dateFrom": "June 2019",
-      "dateTo": "October 2020",
-      "info": ["", ""],
-      "stack": ["", "", ""],
-      "logowidth": 80,
-      "colourPrimary": "#1a1818",
-      "colourSecondary": "#252323"
+      "colourPrimary": "linear-gradient(to bottom, #39b175, #0be779)",
+      "colourSecondary": "linear-gradient(to bottom, #39b175, #0be779)"
     }
   ]
 }
