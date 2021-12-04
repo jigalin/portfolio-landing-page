@@ -38,8 +38,13 @@
   margin: 0 auto 0 -10px;
   width: 180px;
   z-index: 1;
-  pointer-events: none;
+  transition: 0.2s;
 }
+
+.featured-project-image:hover {
+  transform: translateX(5px);
+}
+
 .featured-project > p {
   z-index: 1;
 }
