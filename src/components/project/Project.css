@@ -69,6 +69,7 @@
 .project-size {
   font-size: small;
 }
+
 @media screen and (max-width: 599px) {
   .project-card-wrapper:hover .project-card {
     background-color: #3b4353;

@@ -29,7 +29,14 @@ const Project = ({ project, type }) => {
               </svg>
               <h2 className="project-title">{project.name}</h2>
             </div>
+            {/* <div style={{ display: 'flex' }}>
+              <div> */}
             <p className="project-description">{project.description}</p>
+            {/* </div>
+              <div>
+                <p>Will add arrow icon here</p>
+              </div>
+            </div> */}
             <div className="project-info">
               <div className="project-info-left">
                 {project.languages.nodes.map((language) => (
