@@ -11,6 +11,10 @@
 
 <br>
 
+## 💬 Overview:
+
+A simple one-page react portfolio with clearly defined and modular components which can be easily swapped in and out depending on your use-case. Currently integrated with Apollo & Github API to call repositories with a user provided auth token.
+
 ## 🛠️ Packages & APIs
 
 - [React](https://reactjs.org/)
