@@ -13,10 +13,10 @@ const useStyles = makeStyles((theme) => ({
   moreProjects: {
     '&': {
       margin: '20px auto',
-      backgroundColor: '#258b9e',
+      backgroundColor: '#39b175',
       boxShadow: 'none',
       '&:hover': {
-        backgroundColor: '#2999ae',
+        backgroundColor: '#0be779',
         boxShadow: 'none',
       },
     },
@@ -34,7 +34,8 @@ const client = new ApolloClient({
   request: (operation) => {
     operation.setContext({
       headers: {
-        authorization: `Bearer ${process.env.REACT_APP_GITHUB_TOKEN}`,
+        // authorization: `Bearer ${process.env.REACT_APP_GITHUB_TOKEN}`,
+        authorization: `Bearer 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`,
       },
     })
   },
@@ -42,7 +43,11 @@ const client = new ApolloClient({
 
 const queryInfo = {
   owner: 'jigalin',
-  repositories: ['react-pokedex', 'Farm-Stompers', 'nft-art-generator'],
+  repositories: [
+    'portfolio-landing-page',
+    'react-pokedex',
+    'JS-DOM-for-beginners',
+  ],
 }
 
 const query = gql`

@@ -21,7 +21,16 @@
   display: flex;
   align-items: center;
   margin: 20px auto;
+  transition: 0.2s;
 }
+
+.project-name:hover {
+  display: flex;
+  align-items: center;
+  margin: 20px auto;
+  transform: translateX(5px);
+}
+
 .project-title {
   margin: 0;
 }
