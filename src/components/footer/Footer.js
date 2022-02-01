@@ -9,7 +9,7 @@ const Footer = () => {
         <span role="img" aria-label="thinking">
           ❤️
         </span>{' '}
-        by Matthew Jigalin
+        by Iana Shapovalova
       </p>
     </footer>
   )

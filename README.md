@@ -27,7 +27,7 @@ A simple one-page react portfolio with clearly defined and modular components wh
 ## 🏗️ Recent changes:
 
 - Deploy 'Projects' component to live build which utilized Apollo & Github's GraphQL API to get my projects displaying as elements.
-- Deploy 'Experience' section - need to update content to recent experience. (Up to date experience can be found on my <a href="https://www.linkedin.com/in/mjigalin/" target="_blank">Linkedin</a>.
+- Deploy 'Experience' section - need to update content to recent experience. (Up to date experience can be found on my <a href="https://www.linkedin.com/in/iana-shapovalova/" target="_blank">Linkedin</a>.
 - Clickthroughs to currently live web projects I've worked on / developed
 
 ## 🚧 Current Planned Developments:

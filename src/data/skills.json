@@ -32,6 +32,11 @@
       "id": 8,
       "skillName": "Backend",
       "amount": "60"
+    },
+    {
+      "id": 9,
+      "skillName": "Backend2",
+      "amount": "60"
     }
   ]
 }
