@@ -13,7 +13,7 @@
     },
     {
       "id": 1,
-      "name": "Bartini",
+      "name": "Bartini2",
       "link": "https://www.bartiniapp.com/",
       "description": "🍹 A cocktail-making web application. Users can input ingredients and browse cocktails that can be made. Responsible for UI/UX on mobile & web.",
       "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
