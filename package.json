@@ -10,6 +10,7 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "apollo-boost": "^0.4.9",
+    "axios": "^0.26.0",
     "dotenv": "^8.6.0",
     "express": "^4.17.1",
     "graphql": "^15.7.2",
