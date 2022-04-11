@@ -13,7 +13,7 @@
 
 ## 💬 Overview:
 
-A simple one-page react portfolio with clearly defined and modular components which can be easily swapped in and out depending on your use-case. Currently integrated with Apollo & Github API to call repositories with a user provided auth token.
+A simple one-page react portfolio made based off the original project by [Julian C](https://github.com/juliancesaro) with clearly defined and modular components which can be easily swapped in and out depending on your use-case. Currently integrated with Apollo & Github API to call repositories with a user provided auth token.
 
 ## 🛠️ Packages & APIs
 
