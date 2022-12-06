@@ -2,11 +2,11 @@
   "experience": [
     {
       "id": 0,
-      "link": "https://www.8secondz.com/",
-      "company": "8secondz",
-      "title": "Creative Lead - Web & App Teams",
-      "dateFrom": "June 2020",
-      "dateTo": "July 2021",
+      "link": "https://www.ibigroup.com/",
+      "company": "IBI Group",
+      "title": "Software Developer Intern",
+      "dateFrom": "Aug 2019",
+      "dateTo": "Aug 2020",
       "info": [
         "Responsible for web team front-end development and design",
         "Led in app UI/UX & company wide creative media content"
@@ -18,10 +18,10 @@
     },
     {
       "id": 1,
-      "link": "https://www.psykinetic.com",
-      "company": "Psykinetic",
-      "title": "Immersive Tech & Web Developer",
-      "dateFrom": "August 2020",
+      "link": "https://www.udel.edu/",
+      "company": "University of Delaware",
+      "title": "Graduate Technology Assistant",
+      "dateFrom": "November 2021",
       "dateTo": "Current",
       "info": [
         "Developing VR application with UE4 and C++ for Oculus Quest",
@@ -34,10 +34,26 @@
     },
     {
       "id": 2,
-      "link": "https://www.cactuscan.com",
-      "company": "CactusCan",
-      "title": "Creative Lead",
-      "dateFrom": "2016",
+      "link": "https://www.udel.edu/",
+      "company": "University of Delaware",
+      "title": "Instructional Assistant",
+      "dateFrom": "May 2022",
+      "dateTo": "Current",
+      "info": [
+        "Co-founding CactusCan in 2015 has led to many exciting projects with incredible customers.",
+        "Web design, marketing, media and customer engagement."
+      ],
+      "stack": ["React", "Marketing", "Design", "UI/UX"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #39b175, #0be779)",
+      "colourSecondary": "linear-gradient(to bottom, #39b175, #0be779)"
+    },
+    {
+      "id": 3,
+      "link": "https://research.udel.edu/2015/10/12/spin-in-spins-out-innovation/",
+      "company": "Spin In at University of Delaware",
+      "title": "UI/UX Front End Developer",
+      "dateFrom": "July 2022",
       "dateTo": "Current",
       "info": [
         "Co-founding CactusCan in 2015 has led to many exciting projects with incredible customers.",

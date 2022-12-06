@@ -107,21 +107,6 @@ const Projects = () => {
       <Section title="Projects">
         <div className="projects-content">
           <ul className="projects-list">
-            {featured_projects.map((featuredProject) => {
-              return (
-                <li key={`featured-project-${featuredProject.id}`}>
-                  <Fade bottom duration={1000} distance="20px">
-                    <FeaturedProject
-                      name={featuredProject.name}
-                      link={featuredProject.link}
-                      description={featuredProject.description}
-                      colour={featuredProject.colour}
-                      languages={featuredProject.languages}
-                    />
-                  </Fade>
-                </li>
-              )
-            })}
             {Object.keys(githubProjects).map((repo) => {
               if (githubProjects[repo].name) {
                 return (
@@ -140,7 +125,7 @@ const Projects = () => {
             <div className="more-projects-wrapper">
               <a
                 className="project-link"
-                href={'https://github.com/jigalin'}
+                href={'https://github.com/NimmaDileep'}
                 target="_blank"
                 rel="noopener noreferrer"
               >
