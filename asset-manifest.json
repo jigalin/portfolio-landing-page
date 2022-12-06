@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.e5e326af.css",
+    "main.js": "/react-gh-pages/static/js/main.8bf5f11c.js",
+    "static/media/dileep.jpg": "/react-gh-pages/static/media/dileep.df6fded37643ac44a834.jpg",
+    "static/media/universityofdelaware.png": "/react-gh-pages/static/media/universityofdelaware.3bded347668b61339009.png",
+    "static/media/spininatuniversityofdelaware.png": "/react-gh-pages/static/media/spininatuniversityofdelaware.aecd78e1012437920637.png",
+    "static/media/bartini.png": "/react-gh-pages/static/media/bartini.51561d1e843027c23426.png",
+    "static/media/cactus.png": "/react-gh-pages/static/media/cactus.403f8ec36b5056a51698.png",
+    "static/media/cabbagetreelandscape.png": "/react-gh-pages/static/media/cabbagetreelandscape.57d01b9d602c7d6e22af.png",
+    "static/media/psykinetic.png": "/react-gh-pages/static/media/psykinetic.e85af239acc04da0e4b1.png",
+    "static/media/discord.png": "/react-gh-pages/static/media/discord.3b05867934857b8b15b3.png",
+    "static/media/cactuscan.png": "/react-gh-pages/static/media/cactuscan.09750b586197b59e13df.png",
+    "static/media/8secondz.png": "/react-gh-pages/static/media/8secondz.fe81f70981db868fbcd2.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.e5e326af.css.map": "/react-gh-pages/static/css/main.e5e326af.css.map",
+    "main.8bf5f11c.js.map": "/react-gh-pages/static/js/main.8bf5f11c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5e326af.css",
+    "static/js/main.8bf5f11c.js"
+  ]
+}
